@@ -1,0 +1,15 @@
+C:\Users\Nata\Desktop\Exampless\Exzampless\bin\Debug\net6.0\Exzampless.exe
+C:\Users\Nata\Desktop\Exampless\Exzampless\bin\Debug\net6.0\Exzampless.deps.json
+C:\Users\Nata\Desktop\Exampless\Exzampless\bin\Debug\net6.0\Exzampless.runtimeconfig.json
+C:\Users\Nata\Desktop\Exampless\Exzampless\bin\Debug\net6.0\Exzampless.dll
+C:\Users\Nata\Desktop\Exampless\Exzampless\bin\Debug\net6.0\Exzampless.pdb
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.csproj.AssemblyReference.cache
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.AssemblyInfoInputs.cache
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.AssemblyInfo.cs
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.csproj.CoreCompileInputs.cache
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.dll
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\refint\Exzampless.dll
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.pdb
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\Exzampless.genruntimeconfig.cache
+C:\Users\Nata\Desktop\Exampless\Exzampless\obj\Debug\net6.0\ref\Exzampless.dll
